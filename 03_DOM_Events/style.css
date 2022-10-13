@@ -60,6 +60,7 @@ main {
     padding:3px;
     font-size: large;
     font-weight: bold;
+    cursor: pointer;
 }
 
 #form-wrapper{
